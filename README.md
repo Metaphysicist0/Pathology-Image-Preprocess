@@ -17,10 +17,15 @@ I would like to extend my heartfelt thanks to Prof. Zhen Chen from CAIR for his 
 
 Ensure all dependencies and libraries are correctly installed before proceeding with the scripts above for a smooth and efficient workflow.
 
-Reference
+**Reference**
+
 [1] https://www.pathomation.com/
+
 [2] https://github.com/Pathomation/pma_python
+
 [3] https://openslide.org/api/python/
+
 [4] https://openslide.org/
+
 
 --- 
