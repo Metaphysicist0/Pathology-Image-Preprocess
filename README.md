@@ -1,7 +1,3 @@
-I would like to extend my heartfelt thanks to Prof. Zhen Chen from CAIR for his invaluable and thoughtful guidance. His expertise and kindness have been instrumental in my progress.
-
-
----
 
 **Preparation Steps for Whole Slide Images (WSIs) Processing**
 
