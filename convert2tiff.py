@@ -17,7 +17,7 @@ import tqdm
 _pmaCoreUrl = "http://localhost:54001/"
 
 # what slide do you want to convert?
-slidePath = "G:\\E----Cancaer\\1444\\MMRd\\CD3\\2013-6210-2\\1.mds"
+slidePath = "G:\\E----Cancaer\\1444\\MMRd\\PDL-1\\2013-6210-2\\1.mds"
 # set the target TIFF quality 0-100
 target_quality = 100
 # set the target scale factor to download. One of [1, 2, 4, 8, 16, 32, 64, 128]
