@@ -1,7 +1,7 @@
 import openslide as opslide
 
 #读取病理图
-slide = opslide.open_slide('G:\\E----Cancaer\\1444\\MMRd\\CD3\\2013-3442-3\\1.tif')
+slide = opslide.open_slide('G:\\E----Cancaer\\1444\\MMRd\\PDL-1\\2013-3442-3\\1.tif')
 
 # 获取图像基本信息
 print(slide.dimensions)     # 图像宽度和高度
